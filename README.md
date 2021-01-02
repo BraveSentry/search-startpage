@@ -1,2 +1,2 @@
 # search-startpage
-Mimick google´s startpage.
+Mimick ecosia´s startpage.
